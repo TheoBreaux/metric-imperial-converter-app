@@ -8,6 +8,7 @@ body {
     width: 550px;
     height: 729px;
     background: #1F2937;
+    border-radius: 5px;
 }
 
 .main {
@@ -15,6 +16,7 @@ body {
     width: 550px;
     height: 285px;
     background: #6943FF;
+    border-radius: 5px;
 }
 
 #heading {
